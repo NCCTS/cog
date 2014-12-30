@@ -1,0 +1,10 @@
+[package]
+
+name = "cog"
+version = "0.0.1"
+authors = ["Michael Bradley, Jr. <michaelsbradleyjr@gmail.com>"]
+
+[dependencies]
+
+hyper = "0.0.18"
+log="*"
