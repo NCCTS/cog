@@ -1,0 +1,13 @@
+fuse*
+.DS_Store
+*~
+*.*~
+.*.sw*
+._*
+.#*
+*.swp
+
+.floo
+.flooignore
+
+target/
