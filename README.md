@@ -4,7 +4,7 @@ Cog
 [![License BSD 2-Clause](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat)](http://opensource.org/licenses/BSD-2-Clause)
 [![Build Status](https://travis-ci.org/NCCTS/cog.svg?branch=master)](https://travis-ci.org/NCCTS/cog)
 
-> Minimalistic and generic signaling for service availability.
+> Minimalistic and generic signaling for service availability, envisioned for use with Docker and Fig.
 
 ## Copyright and License
 
