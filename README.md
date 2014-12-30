@@ -1,7 +1,7 @@
 Cog
 ===
 
-<a href="https://github.com/NCCTS/cog"><img align="right" height="140" src="http://upload.wikimedia.org/wikipedia/commons/archive/6/6c/20080501153833!Cog-scripted-svg.svg"></a>
+<a href="https://github.com/NCCTS/cog"><img align="right" height="140" src="https://raw.githubusercontent.com/NCCTS/cog/master/support/cogs.png"></a>
 
 [![License BSD 2-Clause](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat)](http://opensource.org/licenses/BSD-2-Clause)
 [![Build Status](https://travis-ci.org/NCCTS/cog.svg?branch=master)](https://travis-ci.org/NCCTS/cog)
