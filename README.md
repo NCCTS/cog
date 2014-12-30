@@ -6,7 +6,13 @@ Cog
 [![License BSD 2-Clause](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat)](http://opensource.org/licenses/BSD-2-Clause)
 [![Build Status](https://travis-ci.org/NCCTS/cog.svg?branch=master)](https://travis-ci.org/NCCTS/cog)
 
-> Minimalistic and generic signaling for service availability, envisioned for use with Docker and Fig.
+> Simple and generic signaling for service availability.
+
+Cog is envisioned for use with Docker and [Fig](http://www.fig.sh/), but could be used in other contexts as well. Cog's standalone HTTP *server* provides two "ports" &mdash; `WAIT` and `READY`; it's *cli interface* provides a means of intra and extra-container signaling via those ports (pull and/or push), so services linked between containers can startup without downstream services having to know implementation details of their service-level dependencies.
+
+## Project Status
+
+Cog is still on the drawing board, but active development should ramp up in January 2015.
 
 ## Copyright and License
 
