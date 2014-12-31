@@ -8,7 +8,7 @@ Cog
 
 > Simple and generic signaling for service availability.
 
-Cog is envisioned for use with Docker and [Fig](http://www.fig.sh/), but could be leveraged in a variety of contexts. Cog's standalone HTTP *server* provides two "ports" &mdash; `WAIT` and `READY`; it's *cli interface* provides a means of intra and extra-container signaling via those ports (pull and/or push), so services linked between containers can startup without downstream services having to know implementation details of their service-level dependencies.
+Cog is envisioned for use with Docker and [Fig](http://www.fig.sh/), but could be leveraged in a variety of contexts. Cog's standalone HTTP *server* provides two "ports" &mdash; `WAIT` and `READY`; its *cli interface* provides a means of intra and extra-container signaling via those ports (pull and/or push), so services linked between containers can be triggered to startup without having to know implementation details of the services on which they depend.
 
 ## Project Status
 
